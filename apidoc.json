@@ -1,0 +1,14 @@
+{
+  "name": "BTC,USDT交易站开放API",
+  "description": "You write something here to describe your project",
+  "title": "交易站开放平台",
+  "url":"https://tgapi.*.*/v2",
+  "version": "3.0.0",
+  "license": "MIT",
+  "author": "Jack",
+  "order": [
+    "账户",
+    "广告",
+    "交易"
+  ]
+}
