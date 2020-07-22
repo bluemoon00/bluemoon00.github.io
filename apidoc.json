@@ -1,6 +1,6 @@
 {
   "name": "BTC,USDT交易站开放API",
-  "description": "You write something here to describe your project",
+  "description": "",
   "title": "交易站开放平台",
   "url":"https://tgapi.*.*/v2",
   "version": "3.0.0",
@@ -10,5 +10,13 @@
     "账户",
     "广告",
     "交易"
-  ]
+  ],
+  "header": {
+    "title": "文档说明",
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "文档结尾",
+    "filename": "footer.md"
+  }
 }
